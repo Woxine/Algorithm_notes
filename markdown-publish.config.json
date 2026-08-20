@@ -3,6 +3,6 @@
   "siteDescription": "Personal knowledge base",
   "siteLang": "ch",
   "vaultDir": "vault",
-  "buildMode": "full",
+  "buildMode": "public",
   "out": "dist"
 }
