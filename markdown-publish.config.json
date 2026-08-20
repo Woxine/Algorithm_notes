@@ -1,7 +1,7 @@
 {
   "siteName": "My Notes",
   "siteDescription": "Personal knowledge base",
-  "siteLang": "en",
+  "siteLang": "ch",
   "vaultDir": "vault",
   "buildMode": "full",
   "out": "dist"
